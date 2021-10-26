@@ -8,4 +8,4 @@ Im a huge fan of excessive optimization when its fun to do, such as [Jabber's Ci
 
 Currently not doing comissions for mods, however if you ask nicely I may consider it.
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=P03W)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=P03W&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
