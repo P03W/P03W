@@ -1,4 +1,4 @@
-### Hello, and welcome to my profile!
+### Hello, and welcome to my profile! 🏳️‍🌈🏳️‍⚧️
 
 **Pronouns:** She/Her
 
